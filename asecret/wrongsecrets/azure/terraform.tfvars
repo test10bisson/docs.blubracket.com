@@ -1,1 +1,0 @@
-region = "East US"
