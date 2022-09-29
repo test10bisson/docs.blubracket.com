@@ -1,4 +1,0 @@
-production: 
-  clients: 
-    default: 
-      uri: "mongodb://testuser:testpass@ds048537.mongolab.com:48537/main"
